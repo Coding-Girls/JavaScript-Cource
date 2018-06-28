@@ -1,5 +1,5 @@
 /* Task 5*. Write a function that takes an integer number as a parameter and 
-prints an appropriate number of Fibonacci numbers. If possible, use a recursion. */
+prints an appropriate number of Fibonacci numbers. */
 
 function nFibonacciNumbers2ndWay(args) {
     let n = +args,
